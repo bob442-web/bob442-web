@@ -1,4 +1,5 @@
 ### Hi there 👋
 
 jejejejkkk
-- [hjemmeside](ny.html/)
+- [hjemmeside](C:\Users\SkoleIT\OneDrive - Farsø Efterskole\Skrivebord\htx\programering\webside\ny.html/)
+
